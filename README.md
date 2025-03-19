@@ -1,6 +1,6 @@
 # Minecraft_Server
 
-### 怎么开server？
+### 怎么打开server？
 git pull origin 后，双击run.bat
 
 ### 怎么改server ram？
