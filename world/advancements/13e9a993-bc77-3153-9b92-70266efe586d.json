@@ -3598,5 +3598,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-30 22:07:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-30 21:43:00 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
