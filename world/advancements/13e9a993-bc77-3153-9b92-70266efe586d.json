@@ -35,6 +35,7 @@
       "minecraft:river": "2025-02-23 19:38:47 +0800",
       "minecraft:lukewarm_ocean": "2025-03-08 20:31:37 +0800",
       "minecraft:snowy_plains": "2025-03-01 14:26:17 +0800",
+      "minecraft:stony_shore": "2025-03-30 08:58:36 +0800",
       "minecraft:snowy_taiga": "2025-02-23 19:49:27 +0800",
       "minecraft:dripstone_caves": "2025-03-09 21:55:20 +0800",
       "minecraft:old_growth_birch_forest": "2025-03-01 14:10:41 +0800",
@@ -3564,6 +3565,36 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-03-23 14:43:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-30 09:18:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-30 09:18:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-30 09:18:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-30 09:18:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-03-30 09:18:27 +0800"
     },
     "done": true
   },

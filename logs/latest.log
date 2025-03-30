@@ -1,53 +1,85 @@
-[14:00:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:00:30] [ServerMain/INFO]: Loaded 1370 recipes
-[14:00:30] [ServerMain/INFO]: Loaded 1481 advancements
-[14:00:32] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[14:00:32] [Server thread/INFO]: Loading properties
-[14:00:32] [Server thread/INFO]: Default game type: SURVIVAL
-[14:00:32] [Server thread/INFO]: Generating keypair
-[14:00:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:00:33] [Server thread/INFO]: Using default channel type
-[14:00:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:00:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:00:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:00:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:00:33] [Server thread/INFO]: Preparing level "world"
-[14:00:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:38] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[14:00:39] [Server thread/INFO]: Time elapsed: 5107 ms
-[14:00:39] [Server thread/INFO]: Done (5.745s)! For help, type "help"
-[14:01:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:02:27] [Server thread/INFO]: kaisheng[/127.0.0.1:53227] logged in with entity id 28 at (-855.669349803536, 64.0, -454.9331661808753)
-[14:02:27] [Server thread/INFO]: kaisheng joined the game
-[14:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[14:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[14:19:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
-[14:19:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
-[14:21:09] [Server thread/WARN]: kaisheng moved too quickly! -9.729951195010244,-2.470776788792236,0.7740581991085946
-[14:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3563ms or 71 ticks behind
-[14:40:22] [Server thread/INFO]: [Not Secure] <kaisheng> ww
-[14:41:17] [Server thread/WARN]: Oak Boat (vehicle of kaisheng) moved too quickly! -7.330724397330414,0.0,7.242763398117177
-[14:44:53] [Server thread/WARN]: kaisheng moved too quickly! 2.853084070249224,0.8291870918577047,9.616873685844553
-[14:48:09] [Server thread/INFO]: kaisheng lost connection: Disconnected
-[14:48:09] [Server thread/INFO]: kaisheng left the game
-[14:48:23] [Server thread/INFO]: Stopping the server
-[14:48:23] [Server thread/INFO]: Stopping server
-[14:48:23] [Server thread/INFO]: Saving players
-[14:48:23] [Server thread/INFO]: Saving worlds
-[14:48:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:48:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:48:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:38:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:38:30] [ServerMain/INFO]: Loaded 1370 recipes
+[08:38:30] [ServerMain/INFO]: Loaded 1481 advancements
+[08:38:31] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[08:38:31] [Server thread/INFO]: Loading properties
+[08:38:31] [Server thread/INFO]: Default game type: SURVIVAL
+[08:38:31] [Server thread/INFO]: Generating keypair
+[08:38:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:38:31] [Server thread/INFO]: Using default channel type
+[08:38:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:38:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:38:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:38:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:38:31] [Server thread/INFO]: Preparing level "world"
+[08:38:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:38:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[08:38:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[08:38:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[08:38:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[08:38:35] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[08:38:35] [Server thread/INFO]: Time elapsed: 2598 ms
+[08:38:35] [Server thread/INFO]: Done (3.477s)! For help, type "help"
+[08:39:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:39:50] [Netty Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) [server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) [server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) [server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) [server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) [server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) [server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) [server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) [server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1447) [?:?]
+[08:39:55] [Server thread/INFO]: kaisheng[/127.0.0.1:49884] logged in with entity id 28 at (-3827.6464233347824, 63.0, -351.5070794583397)
+[08:39:55] [Server thread/INFO]: kaisheng joined the game
+[08:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[08:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10455ms or 209 ticks behind
+[10:11:47] [Server thread/INFO]: kaisheng lost connection: Disconnected
+[10:11:47] [Server thread/INFO]: kaisheng left the game
+[10:12:28] [Server thread/INFO]: kaisheng[/127.0.0.1:50586] logged in with entity id 28870 at (-867.3522135170933, 65.0, -411.49382419128403)
+[10:12:28] [Server thread/INFO]: kaisheng joined the game
+[10:15:10] [Server thread/INFO]: kaisheng lost connection: Disconnected
+[10:15:10] [Server thread/INFO]: kaisheng left the game
+[10:15:20] [Server thread/INFO]: Stopping the server
+[10:15:20] [Server thread/INFO]: Stopping server
+[10:15:20] [Server thread/INFO]: Saving players
+[10:15:20] [Server thread/INFO]: Saving worlds
+[10:15:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:15:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:15:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:15:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:15:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:15:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:15:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
