@@ -39,10 +39,13 @@
       "minecraft:snowy_taiga": "2025-02-23 19:49:27 +0800",
       "minecraft:dripstone_caves": "2025-03-09 21:55:20 +0800",
       "minecraft:old_growth_birch_forest": "2025-03-01 14:10:41 +0800",
+      "minecraft:deep_dark": "2025-04-01 14:19:48 +0800",
       "minecraft:swamp": "2025-03-01 14:02:18 +0800",
+      "minecraft:grove": "2025-04-01 14:13:55 +0800",
       "minecraft:meadow": "2025-03-15 15:28:47 +0800",
       "minecraft:savanna": "2025-03-15 17:05:40 +0800",
-      "minecraft:plains": "2025-03-01 14:17:21 +0800"
+      "minecraft:plains": "2025-03-01 14:17:21 +0800",
+      "minecraft:jagged_peaks": "2025-04-01 14:13:46 +0800"
     },
     "done": false
   },
@@ -3607,6 +3610,60 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-03-30 22:07:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-01 14:32:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-01 14:32:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-01 14:20:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-04-01 14:51:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-01 14:27:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-01 14:32:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-04-01 14:32:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-01 14:20:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-01 14:32:56 +0800"
     },
     "done": true
   },
