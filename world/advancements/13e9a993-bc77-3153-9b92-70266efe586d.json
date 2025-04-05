@@ -3613,6 +3613,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-01 14:20:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-01 14:20:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-01 14:27:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-04-01 14:32:56 +0800"
@@ -3625,25 +3643,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-04-01 14:20:41 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-04-01 14:51:44 +0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-04-01 14:27:35 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-01 14:32:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-04-01 14:32:56 +0800"
     },
@@ -3655,15 +3661,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
-      "has_log": "2025-04-01 14:20:41 +0800"
+      "has_soul_torch": "2025-04-01 14:51:44 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_amethyst_shard": "2025-04-01 14:32:56 +0800"
+      "has_enchanted_golden_apple": "2025-04-05 19:59:23 +0800"
     },
     "done": true
   },
