@@ -522,6 +522,7 @@
       "minecraft:pillager": "2025-03-01 16:38:25 +0800",
       "minecraft:blaze": "2025-03-06 21:04:56 +0800",
       "minecraft:skeleton": "2025-02-23 19:32:10 +0800",
+      "minecraft:zombified_piglin": "2025-04-06 14:58:49 +0800",
       "minecraft:wither_skeleton": "2025-03-06 21:05:41 +0800",
       "minecraft:hoglin": "2025-03-02 12:40:40 +0800",
       "minecraft:piglin": "2025-03-02 13:13:08 +0800",
@@ -3758,15 +3759,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 20:44:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:white": "2025-04-05 21:28:14 +0800"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+  "minecraft:story/cure_zombie_villager": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-04-05 20:44:57 +0800"
+      "cured_zombie": "2025-04-06 15:00:14 +0800"
     },
     "done": true
   },
