@@ -1,46 +1,51 @@
-[20:48:13] [ServerMain/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
-[20:48:13] [ServerMain/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
-[20:48:13] [ServerMain/INFO]: Disabling further attempts to query Paging File.
-[20:48:14] [ServerMain/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
-[20:48:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:48:21] [ServerMain/INFO]: Loaded 1370 recipes
-[20:48:21] [ServerMain/INFO]: Loaded 1481 advancements
-[20:48:22] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:48:22] [Server thread/INFO]: Loading properties
-[20:48:22] [Server thread/INFO]: Default game type: SURVIVAL
-[20:48:22] [Server thread/INFO]: Generating keypair
-[20:48:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:48:22] [Server thread/INFO]: Using default channel type
-[20:48:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:48:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:48:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:48:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:48:22] [Server thread/INFO]: Preparing level "world"
-[20:48:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:48:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:48:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:48:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:48:24] [Server thread/INFO]: Time elapsed: 1307 ms
-[20:48:24] [Server thread/INFO]: Done (2.033s)! For help, type "help"
-[20:48:34] [Server thread/INFO]: MadnessIdiot[/127.0.0.1:14550] logged in with entity id 28 at (-853.1817555447475, 64.0, -462.8328623350762)
-[20:48:34] [Server thread/INFO]: MadnessIdiot joined the game
-[20:54:20] [Server thread/INFO]: kaisheng[/172.22.100.232:59267] logged in with entity id 2010 at (-856.3369248002031, 64.0, -455.35644433591204)
-[20:54:20] [Server thread/INFO]: kaisheng joined the game
-[20:57:02] [Server thread/INFO]: MadnessIdiot has made the advancement [Take Aim]
-[20:57:38] [Server thread/INFO]: [Not Secure] <kaisheng> W
-[21:09:26] [Server thread/INFO]: kaisheng was slain by Piglin
-[21:30:52] [Server thread/INFO]: MadnessIdiot lost connection: Disconnected
-[21:30:52] [Server thread/INFO]: MadnessIdiot left the game
-[21:31:02] [Server thread/INFO]: kaisheng lost connection: Disconnected
-[21:31:02] [Server thread/INFO]: kaisheng left the game
-[21:31:11] [Server thread/INFO]: Stopping the server
-[21:31:11] [Server thread/INFO]: Stopping server
-[21:31:11] [Server thread/INFO]: Saving players
-[21:31:11] [Server thread/INFO]: Saving worlds
-[21:31:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:31:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:31:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:31:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:31:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:31:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:31:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:53:25] [ServerMain/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[12:53:25] [ServerMain/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[12:53:25] [ServerMain/INFO]: Disabling further attempts to query Paging File.
+[12:53:26] [ServerMain/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[12:53:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:53:35] [ServerMain/INFO]: Loaded 1370 recipes
+[12:53:35] [ServerMain/INFO]: Loaded 1481 advancements
+[12:53:36] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[12:53:36] [Server thread/INFO]: Loading properties
+[12:53:36] [Server thread/INFO]: Default game type: SURVIVAL
+[12:53:36] [Server thread/INFO]: Generating keypair
+[12:53:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:53:36] [Server thread/INFO]: Using default channel type
+[12:53:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:53:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:53:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:53:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:53:37] [Server thread/INFO]: Preparing level "world"
+[12:53:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:53:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:53:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:53:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:53:39] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[12:53:39] [Server thread/INFO]: Time elapsed: 1822 ms
+[12:53:39] [Server thread/INFO]: Done (2.263s)! For help, type "help"
+[12:54:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:54:46] [Server thread/INFO]: MadnessIdiot[/127.0.0.1:48713] logged in with entity id 28 at (-852.2458064514221, 64.0, -455.45091296492024)
+[12:54:46] [Server thread/INFO]: MadnessIdiot joined the game
+[13:19:30] [Server thread/INFO]: MadnessIdiot fell from a high place
+[13:41:53] [Server thread/INFO]: MadnessIdiot fell from a high place
+[13:43:22] [Server thread/INFO]: kaisheng[/172.22.100.232:63536] logged in with entity id 9412 at (-853.6370158506455, 64.0, -453.89835077454785)
+[13:43:22] [Server thread/INFO]: kaisheng joined the game
+[15:14:00] [Server thread/INFO]: [Not Secure] <MadnessIdiot> u off mic?
+[15:14:55] [Server thread/INFO]: [Not Secure] <kaisheng> off mou mou
+[15:19:59] [Server thread/INFO]: kaisheng fell from a high place
+[15:44:04] [Server thread/INFO]: kaisheng was burned to a crisp while fighting MadnessIdiot
+[15:47:04] [Server thread/INFO]: kaisheng lost connection: Disconnected
+[15:47:04] [Server thread/INFO]: kaisheng left the game
+[16:01:56] [Server thread/INFO]: MadnessIdiot lost connection: Disconnected
+[16:01:56] [Server thread/INFO]: MadnessIdiot left the game
+[16:02:00] [Server thread/INFO]: Stopping the server
+[16:02:00] [Server thread/INFO]: Stopping server
+[16:02:00] [Server thread/INFO]: Saving players
+[16:02:00] [Server thread/INFO]: Saving worlds
+[16:02:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:02:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:02:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:02:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:02:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:02:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:02:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
