@@ -1,50 +1,57 @@
-[19:15:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:16:06] [ServerMain/INFO]: Loaded 1370 recipes
-[19:16:06] [ServerMain/INFO]: Loaded 1481 advancements
-[19:16:08] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:16:08] [Server thread/INFO]: Loading properties
-[19:16:08] [Server thread/INFO]: Default game type: SURVIVAL
-[19:16:08] [Server thread/INFO]: Generating keypair
-[19:16:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:16:08] [Server thread/INFO]: Using default channel type
-[19:16:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:16:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:16:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:16:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:16:09] [Server thread/INFO]: Preparing level "world"
-[19:16:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:16] [Server thread/INFO]: Time elapsed: 6732 ms
-[19:16:16] [Server thread/INFO]: Done (7.413s)! For help, type "help"
-[19:17:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:17:40] [Server thread/INFO]: kaisheng[/127.0.0.1:54721] logged in with entity id 28 at (-857.4943441382205, 64.0, -467.82965511886107)
-[19:17:40] [Server thread/INFO]: kaisheng joined the game
-[19:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
-[19:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8169ms or 163 ticks behind
-[19:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[19:19:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
-[20:06:34] [Server thread/INFO]: kaisheng lost connection: Disconnected
-[20:06:34] [Server thread/INFO]: kaisheng left the game
-[20:06:46] [Server thread/INFO]: Stopping the server
-[20:06:46] [Server thread/INFO]: Stopping server
-[20:06:46] [Server thread/INFO]: Saving players
-[20:06:46] [Server thread/INFO]: Saving worlds
-[20:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:07:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:07:38] [ServerMain/INFO]: Loaded 1370 recipes
+[13:07:38] [ServerMain/INFO]: Loaded 1481 advancements
+[13:07:39] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:07:39] [Server thread/INFO]: Loading properties
+[13:07:39] [Server thread/INFO]: Default game type: SURVIVAL
+[13:07:39] [Server thread/INFO]: Generating keypair
+[13:07:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:07:40] [Server thread/INFO]: Using default channel type
+[13:07:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:07:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:07:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:07:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:07:40] [Server thread/INFO]: Preparing level "world"
+[13:07:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:07:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:07:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:07:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:07:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:07:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:07:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:07:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:07:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:07:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:07:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:07:45] [Server thread/INFO]: Time elapsed: 4978 ms
+[13:07:45] [Server thread/INFO]: Done (5.488s)! For help, type "help"
+[13:08:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:08:59] [Server thread/INFO]: kaisheng[/127.0.0.1:59820] logged in with entity id 28 at (-855.4497593820395, 64.0, -465.1825911213122)
+[13:08:59] [Server thread/INFO]: kaisheng joined the game
+[13:09:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[13:09:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16017ms or 320 ticks behind
+[13:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2711ms or 54 ticks behind
+[13:41:40] [Server thread/INFO]: kaisheng lost connection: Disconnected
+[13:41:40] [Server thread/INFO]: kaisheng left the game
+[13:41:44] [Server thread/INFO]: kaisheng[/127.0.0.1:61819] logged in with entity id 7315 at (-870.0942319299911, 65.0, -470.5070833827929)
+[13:41:44] [Server thread/INFO]: kaisheng joined the game
+[13:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[13:58:29] [Server thread/INFO]: kaisheng lost connection: Disconnected
+[13:58:29] [Server thread/INFO]: kaisheng left the game
+[13:58:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16485ms or 329 ticks behind
+[13:58:37] [Server thread/INFO]: kaisheng[/127.0.0.1:62032] logged in with entity id 10573 at (-870.5173760336075, 65.0, -410.43263597695505)
+[13:58:37] [Server thread/INFO]: kaisheng joined the game
+[13:59:00] [Server thread/INFO]: kaisheng lost connection: Disconnected
+[13:59:00] [Server thread/INFO]: kaisheng left the game
+[13:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14994ms or 299 ticks behind
+[13:59:24] [Server thread/INFO]: Stopping the server
+[13:59:24] [Server thread/INFO]: Stopping server
+[13:59:24] [Server thread/INFO]: Saving players
+[13:59:24] [Server thread/INFO]: Saving worlds
+[13:59:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:59:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:59:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:59:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:59:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:59:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:59:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
