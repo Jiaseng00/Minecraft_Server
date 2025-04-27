@@ -1,13 +1,42 @@
-[00:52:22] [Server thread/INFO]: MadnessIdiot lost connection: Disconnected
-[00:52:22] [Server thread/INFO]: MadnessIdiot left the game
-[00:52:27] [Server thread/INFO]: Stopping the server
-[00:52:27] [Server thread/INFO]: Stopping server
-[00:52:27] [Server thread/INFO]: Saving players
-[00:52:27] [Server thread/INFO]: Saving worlds
-[00:52:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:52:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:52:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:37:05] [ServerMain/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[13:37:05] [ServerMain/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[13:37:05] [ServerMain/INFO]: Disabling further attempts to query Paging File.
+[13:37:07] [ServerMain/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[13:37:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:37:15] [ServerMain/INFO]: Loaded 1370 recipes
+[13:37:15] [ServerMain/INFO]: Loaded 1481 advancements
+[13:37:16] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:37:16] [Server thread/INFO]: Loading properties
+[13:37:16] [Server thread/INFO]: Default game type: SURVIVAL
+[13:37:16] [Server thread/INFO]: Generating keypair
+[13:37:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:37:16] [Server thread/INFO]: Using default channel type
+[13:37:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:37:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:37:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:37:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:37:16] [Server thread/INFO]: Preparing level "world"
+[13:37:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:37:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:37:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:37:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:37:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:37:19] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[13:37:19] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[13:37:19] [Server thread/INFO]: Time elapsed: 2552 ms
+[13:37:19] [Server thread/INFO]: Done (2.944s)! For help, type "help"
+[13:37:24] [Server thread/INFO]: MadnessIdiot[/127.0.0.1:62700] logged in with entity id 28 at (-853.6570564738778, 64.0, -453.8019529706375)
+[13:37:24] [Server thread/INFO]: MadnessIdiot joined the game
+[14:39:33] [Server thread/INFO]: MadnessIdiot lost connection: Disconnected
+[14:39:33] [Server thread/INFO]: MadnessIdiot left the game
+[14:39:40] [Server thread/INFO]: Stopping the server
+[14:39:40] [Server thread/INFO]: Stopping server
+[14:39:40] [Server thread/INFO]: Saving players
+[14:39:40] [Server thread/INFO]: Saving worlds
+[14:39:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:39:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:39:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
