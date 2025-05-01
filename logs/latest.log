@@ -1,55 +1,41 @@
-[15:35:18] [ServerMain/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
-[15:35:18] [ServerMain/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
-[15:35:18] [ServerMain/INFO]: Disabling further attempts to query Paging File.
-[15:35:19] [ServerMain/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
-[15:35:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:35:27] [ServerMain/INFO]: Loaded 1370 recipes
-[15:35:27] [ServerMain/INFO]: Loaded 1481 advancements
-[15:35:28] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[15:35:28] [Server thread/INFO]: Loading properties
-[15:35:28] [Server thread/INFO]: Default game type: SURVIVAL
-[15:35:28] [Server thread/INFO]: Generating keypair
-[15:35:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:35:28] [Server thread/INFO]: Using default channel type
-[15:35:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:35:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:35:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:35:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:35:29] [Server thread/INFO]: Preparing level "world"
-[15:35:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:35:31] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:35:31] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:35:31] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:35:31] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:35:32] [Worker-Main-7/INFO]: Preparing spawn area: 12%
-[15:35:32] [Server thread/INFO]: Time elapsed: 2341 ms
-[15:35:32] [Server thread/INFO]: Done (3.260s)! For help, type "help"
-[15:35:53] [Server thread/INFO]: MadnessIdiot[/127.0.0.1:26988] logged in with entity id 28 at (-361.6708577346136, 97.0, -573.7961679688345)
-[15:35:53] [Server thread/INFO]: MadnessIdiot joined the game
-[15:36:19] [Server thread/INFO]: kaisheng[/172.22.100.232:50252] logged in with entity id 463 at (-41.19003448325169, 61.0, -46.732651291946794)
-[15:36:19] [Server thread/INFO]: kaisheng joined the game
-[15:36:22] [Server thread/INFO]: kaisheng lost connection: Disconnected
-[15:36:22] [Server thread/INFO]: kaisheng left the game
-[15:36:48] [Server thread/INFO]: [Not Secure] <MadnessIdiot> 157/-1679
-[15:39:20] [Server thread/INFO]: kaisheng[/172.22.100.232:50414] logged in with entity id 2761 at (-40.468674740720715, 61.221493638709475, -44.305305579913906)
-[15:39:20] [Server thread/INFO]: kaisheng joined the game
-[15:39:24] [Server thread/INFO]: kaisheng was slain by Enderman
-[15:39:58] [Server thread/INFO]: kaisheng lost connection: Disconnected
-[15:39:58] [Server thread/INFO]: kaisheng left the game
-[15:41:38] [Server thread/INFO]: kaisheng[/172.22.100.232:50536] logged in with entity id 4273 at (157.5, 77.0, -1677.5)
-[15:41:38] [Server thread/INFO]: kaisheng joined the game
-[15:41:56] [Server thread/INFO]: kaisheng lost connection: Disconnected
-[15:41:56] [Server thread/INFO]: kaisheng left the game
-[15:42:52] [Server thread/INFO]: MadnessIdiot lost connection: Disconnected
-[15:42:52] [Server thread/INFO]: MadnessIdiot left the game
-[15:42:58] [Server thread/INFO]: Stopping the server
-[15:42:58] [Server thread/INFO]: Stopping server
-[15:42:58] [Server thread/INFO]: Saving players
-[15:42:58] [Server thread/INFO]: Saving worlds
-[15:42:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:42:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:42:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:42:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:42:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:42:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:42:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:59:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:59:13] [ServerMain/INFO]: Loaded 1370 recipes
+[15:59:13] [ServerMain/INFO]: Loaded 1481 advancements
+[15:59:14] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[15:59:14] [Server thread/INFO]: Loading properties
+[15:59:14] [Server thread/INFO]: Default game type: SURVIVAL
+[15:59:14] [Server thread/INFO]: Generating keypair
+[15:59:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:59:14] [Server thread/INFO]: Using default channel type
+[15:59:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:59:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:59:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:59:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:59:15] [Server thread/INFO]: Preparing level "world"
+[15:59:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:59:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:59:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:59:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:59:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:59:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:59:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:59:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:59:19] [Server thread/INFO]: Time elapsed: 3600 ms
+[15:59:19] [Server thread/INFO]: Done (4.105s)! For help, type "help"
+[16:00:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:00:37] [Server thread/INFO]: MadnessIdiot[/172.22.46.95:54958] logged in with entity id 28 at (226.44547771383955, 80.0, -1611.63787563056)
+[16:00:38] [Server thread/INFO]: MadnessIdiot joined the game
+[16:00:49] [Server thread/INFO]: MadnessIdiot lost connection: Disconnected
+[16:00:49] [Server thread/INFO]: MadnessIdiot left the game
+[16:01:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:02:18] [Server thread/INFO]: Stopping the server
+[16:02:18] [Server thread/INFO]: Stopping server
+[16:02:18] [Server thread/INFO]: Saving players
+[16:02:18] [Server thread/INFO]: Saving worlds
+[16:02:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:02:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:02:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
